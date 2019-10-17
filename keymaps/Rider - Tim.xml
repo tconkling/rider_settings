@@ -56,9 +56,7 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="GotoChangedFile" />
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="shift meta t" />
-  </action>
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
@@ -121,6 +119,9 @@
   <action id="RiderUnitTestSessionRerunFailedTestsTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta alt w" />
