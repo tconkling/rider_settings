@@ -1,9 +1,9 @@
 <application>
-  <component name="CodeLensSettings" defaultAnchor="Right">
+  <component name="CodeLensSettings">
     <anchor>
       <map>
-        <entry key="Unity Assets Usage" value="Right" />
-        <entry key="Unity implicit usage" value="Right" />
+        <entry key="Unity Assets Usage" value="Top" />
+        <entry key="Unity implicit usage" value="Top" />
       </map>
     </anchor>
     <enabled>
