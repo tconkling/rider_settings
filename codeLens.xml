@@ -10,6 +10,7 @@
       <map>
         <entry key="Derived symbols" value="false" />
         <entry key="Exposing API" value="false" />
+        <entry key="IL code" value="false" />
         <entry key="Unity serialized field" value="false" />
         <entry key="Usages" value="false" />
         <entry key="VcsAuthorCodeLensProvider" value="false" />
