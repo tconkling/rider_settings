@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'TheHunt.Runtime'" />
     <option name="defaultScopeName" value="Project 'TheHunt.Runtime'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'TheHunt.Runtime'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
