@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'UltimateDecals.Runtime'" />
-    <option name="defaultScopeName" value="Project 'UltimateDecals.Runtime'" />
-    <option name="SEARCH_SCOPE" value="Project 'UltimateDecals.Runtime'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
